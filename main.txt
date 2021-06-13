@@ -1,1 +1,3 @@
 My First file on main branch
+New line addition to main.txt
+New line 3 addition to main.txt
